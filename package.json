@@ -1,0 +1,25 @@
+{
+  "name": "gulp-workflow",
+  "version": "1.0.0",
+  "description": "Workflow General",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blogdopata/categorizacion.git"
+  },
+  "keywords": [
+    "USMP",
+    "web",
+    "usmp",
+    "@blogdopata"
+  ],
+  "author": "@blogdopata",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blogdopata/categorizacion/issues"
+  },
+  "homepage": "https://github.com/blogdopata/categorizacion#readme"
+}
