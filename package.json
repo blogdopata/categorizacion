@@ -21,5 +21,11 @@
   "bugs": {
     "url": "https://github.com/blogdopata/categorizacion/issues"
   },
-  "homepage": "https://github.com/blogdopata/categorizacion#readme"
+  "homepage": "https://github.com/blogdopata/categorizacion#readme",
+  "dependencies": {
+    "gulp-sass": "^4.0.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
 }
