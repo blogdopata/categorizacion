@@ -17,4 +17,4 @@
 
 npm install (Con el Package.json) copy el gulpfile y copiar la siguiente estrucutra:
 
-![Image of Yaktocat](http://usmp.edu.pe/images/random/pic.jpg)
+<center><a href="https://twitter.com/blogdopata">![Image of Yaktocat](http://usmp.edu.pe/images/random/pic.jpg)</a></center>
